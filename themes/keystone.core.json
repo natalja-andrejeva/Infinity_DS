@@ -900,53 +900,53 @@
           "type": "color"
         }
       },
-      "palette": {
-        "neutral": {
-          "50": {
-            "value": "#",
-            "type": "color"
-          },
-          "100": {
-            "value": "#",
-            "type": "color"
-          },
-          "200": {
-            "value": "#",
-            "type": "color"
-          },
-          "300": {
-            "value": "#",
-            "type": "color"
-          },
-          "400": {
-            "value": "#",
-            "type": "color"
-          },
-          "500": {
-            "value": "#",
-            "type": "color"
-          },
-          "600": {
-            "value": "#",
-            "type": "color"
-          },
-          "700": {
-            "value": "#",
-            "type": "color"
-          },
-          "800": {
-            "value": "#",
-            "type": "color"
-          },
-          "900": {
-            "value": "#",
-            "type": "color"
-          },
-          "950": {
-            "value": "#",
-            "type": "color"
-          }
+      "neutrals": {
+        "50": {
+          "value": "#",
+          "type": "color"
         },
+        "100": {
+          "value": "#",
+          "type": "color"
+        },
+        "200": {
+          "value": "#",
+          "type": "color"
+        },
+        "300": {
+          "value": "#",
+          "type": "color"
+        },
+        "400": {
+          "value": "#",
+          "type": "color"
+        },
+        "500": {
+          "value": "#",
+          "type": "color"
+        },
+        "600": {
+          "value": "#",
+          "type": "color"
+        },
+        "700": {
+          "value": "#",
+          "type": "color"
+        },
+        "800": {
+          "value": "#",
+          "type": "color"
+        },
+        "900": {
+          "value": "#",
+          "type": "color"
+        },
+        "950": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "palette": {
         "red": {
           "50": {
             "value": "#",
