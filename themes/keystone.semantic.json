@@ -1,122 +1,122 @@
 {
-        "border": {
-          "radius": {
-            "sharp": {
-              "value": "$border.radius.0",
-              "type": "borderRadius"
-            },
-            "squareRound": {
-              "value": "$border.radius.1",
-              "type": "borderRadius"
-            },
-            "rounder": {
-              "value": "$border.radius.2",
-              "type": "borderRadius"
-            },
-            "pill": {
-              "value": "$border.radius.max",
-              "type": "borderRadius"
-            }
-          },
-          "width": {
-            "default": {
-              "value": "$border.width.1",
-              "type": "borderWidth"
-            },
-            "bold": {
-              "value": "$border.width.2",
-              "type": "borderWidth"
-            },
-            "defaultOutline": {
-              "value": "$border.width.2",
-              "type": "borderWidth"
-            }
-          }
+  "border": {
+    "radius": {
+      "sharp": {
+        "value": "$border.radius.0",
+        "type": "borderRadius"
+      },
+      "squareRound": {
+        "value": "$border.radius.1",
+        "type": "borderRadius"
+      },
+      "rounder": {
+        "value": "$border.radius.2",
+        "type": "borderRadius"
+      },
+      "pill": {
+        "value": "$border.radius.max",
+        "type": "borderRadius"
+      }
+    },
+    "width": {
+      "default": {
+        "value": "$border.width.1",
+        "type": "borderWidth"
+      },
+      "bold": {
+        "value": "$border.width.2",
+        "type": "borderWidth"
+      },
+      "defaultOutline": {
+        "value": "$border.width.2",
+        "type": "borderWidth"
+      }
+    }
+  },
+  "font": {
+    "fontFamily": {
+      "display": {
+        "value": "$font.fontFamily.secondary",
+        "type": "fontFamilies"
+      },
+      "heading": {
+        "value": "$font.fontFamily.primary",
+        "type": "fontFamilies"
+      },
+      "body": {
+        "value": "$font.fontFamily.primary",
+        "type": "fontFamilies"
+      },
+      "caption": {
+        "value": "$font.fontFamily.primary",
+        "type": "fontFamilies"
+      },
+      "label": {
+        "value": "$font.fontFamily.primary",
+        "type": "fontFamilies"
+      },
+      "overline": {
+        "value": "$font.fontFamily.primary",
+        "type": "fontFamilies"
+      }
+    },
+    "fontWeight": {
+      "display": {
+        "bold": {
+          "value": "$font.fontWeight.bold",
+          "type": "fontWeights"
         },
-        "font": {
-          "fontFamily": {
-            "display": {
-              "value": "$font.fontFamily.secondary",
-              "type": "fontFamilies"
-            },
-            "heading": {
-              "value": "$font.fontFamily.primary",
-              "type": "fontFamilies"
-            },
-            "body": {
-              "value": "$font.fontFamily.primary",
-              "type": "fontFamilies"
-            },
-            "caption": {
-              "value": "$font.fontFamily.primary",
-              "type": "fontFamilies"
-            },
-            "label": {
-              "value": "$font.fontFamily.primary",
-              "type": "fontFamilies"
-            },
-            "overline": {
-              "value": "$font.fontFamily.primary",
-              "type": "fontFamilies"
-            }
-          },
-          "fontWeight": {
-            "display": {
-              "bold": {
-                "value": "$font.fontWeight.bold",
-                "type": "fontWeights"
-              },
-              "light": {
-                "value": "$font.fontWeight.light",
-                "type": "fontWeights"
-              }
-            },
-            "heading": {
-              "bold": {
-                "value": "$font.fontWeight.bold",
-                "type": "fontWeights"
-              },
-              "regular": {
-                "value": "$font.fontWeight.regular",
-                "type": "fontWeights"
-              }
-            },
-            "body": {
-              "bold": {
-                "value": "$font.fontWeight.bold",
-                "type": "fontWeights"
-              },
-              "regular": {
-                "value": "$font.fontWeight.regular",
-                "type": "fontWeights"
-              },
-              "light": {
-                "value": "$font.fontWeight.light",
-                "type": "fontWeights"
-              }
-            },
-            "caption": {
-              "bold": {
-                "value": "$font.fontWeight.bold",
-                "type": "fontWeights"
-              }
-            },
-            "label": {
-              "bold": {
-                "value": "$font.fontWeight.bold",
-                "type": "fontWeights"
-              },
-              "regular": {
-                "value": "$font.fontWeight.regular",
-                "type": "fontWeights"
-              }
-            },
-            "overline": {
-              "bold": {
-                "value": "$font.fontWeight.bold",
-                "type": "fontWeights"
-              }
-            }
-          }
+        "light": {
+          "value": "$font.fontWeight.light",
+          "type": "fontWeights"
+        }
+      },
+      "heading": {
+        "bold": {
+          "value": "$font.fontWeight.bold",
+          "type": "fontWeights"
+        },
+        "regular": {
+          "value": "$font.fontWeight.regular",
+          "type": "fontWeights"
+        }
+      },
+      "body": {
+        "bold": {
+          "value": "$font.fontWeight.bold",
+          "type": "fontWeights"
+        },
+        "regular": {
+          "value": "$font.fontWeight.regular",
+          "type": "fontWeights"
+        },
+        "light": {
+          "value": "$font.fontWeight.light",
+          "type": "fontWeights"
+        }
+      },
+      "caption": {
+        "bold": {
+          "value": "$font.fontWeight.bold",
+          "type": "fontWeights"
+        }
+      },
+      "label": {
+        "bold": {
+          "value": "$font.fontWeight.bold",
+          "type": "fontWeights"
+        },
+        "regular": {
+          "value": "$font.fontWeight.regular",
+          "type": "fontWeights"
+        }
+      },
+      "overline": {
+        "bold": {
+          "value": "$font.fontWeight.bold",
+          "type": "fontWeights"
         }
       }
+    }
+  }
+}
