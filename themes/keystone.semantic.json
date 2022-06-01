@@ -1,5 +1,4 @@
 {
-    "eds.semantic": {
         "border": {
           "radius": {
             "sharp": {
@@ -121,4 +120,3 @@
           }
         }
       }
-}
