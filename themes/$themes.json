@@ -1,0 +1,12 @@
+[
+  {
+    "id": "cc8466fbf54bf8cd4ed3bca15fd8765f7ed59ae7",
+    "name": "Keystone Headless Base",
+    "selectedTokenSets": {
+      "keystone.comp": "enabled",
+      "keystone.core": "enabled",
+      "keystone.semantic": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
