@@ -19,7 +19,7 @@
       }
     },
     "width": {
-      "default": {
+      "base": {
         "value": "$border.width.1",
         "type": "borderWidth"
       },
@@ -27,9 +27,11 @@
         "value": "$border.width.2",
         "type": "borderWidth"
       },
-      "defaultOutline": {
-        "value": "$border.width.2",
-        "type": "borderWidth"
+      "outline": {
+        "base": {
+          "value": "$border.width.2",
+          "type": "borderWidth"
+        }
       }
     }
   },
@@ -115,6 +117,28 @@
         "bold": {
           "value": "$font.fontWeight.bold",
           "type": "fontWeights"
+        }
+      }
+    }
+  },
+  "basics": {
+    "size": {
+      "height": {
+        "xs": {
+          "value": "$size.8",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "$size.10",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "$size.12",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "$size.14",
+          "type": "sizing"
         }
       }
     }
