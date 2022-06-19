@@ -145,21 +145,59 @@
   },
   "color": {
     "background": {
-      "default": {
+      "base": {
         "value": "$color.base.white",
+        "type": "color"
+      },
+      "disable": {
+        "value": "$color.neutrals.100",
+        "type": "color"
+      },
+      "success": {
+        "value": "$color.palette.green.100",
+        "type": "color"
+      },
+      "warning": {
+        "value": "$color.palette.yellow.100",
+        "type": "color"
+      },
+      "error": {
+        "value": "$color.palette.red.100",
+        "type": "color"
+      },
+      "info": {
+        "value": "$color.palette.blue.100",
         "type": "color"
       }
     },
     "border": {
-      "default": {
-        "value": "$color.neutrals.950",
-        "type": "color"
+      "neutral": {
+        "default": {
+          "value": "$color.neutrals.950",
+          "type": "color"
+        }
+      },
+      "brand": {
+        "primary": {
+          "value": "$color.brand.a.600",
+          "type": "color"
+        }
       }
     },
     "outline": {
       "default": {
         "value": "$color.neutrals.950",
         "type": "color"
+      },
+      "disable": {
+        "value": "$color.neutrals.600",
+        "type": "color"
+      },
+      "brand": {
+        "primary": {
+          "value": "$color.brand.a.800",
+          "type": "color"
+        }
       }
     },
     "brand": {
@@ -186,7 +224,7 @@
         "type": "color"
       },
       "warning": {
-        "value": "$color.palette.yellow.800",
+        "value": "$color.palette.yellow.500",
         "type": "color"
       },
       "error": {
@@ -225,6 +263,30 @@
       },
       "readOnly": {
         "value": "$color.neutrals.600",
+        "type": "color"
+      },
+      "link": {
+        "value": "$color.palette.blue.500",
+        "type": "color"
+      },
+      "success": {
+        "value": "$color.palette.green.900",
+        "type": "color"
+      },
+      "warning": {
+        "value": "$color.palette.yellow.900",
+        "type": "color"
+      },
+      "error": {
+        "value": "$color.palette.red.900",
+        "type": "color"
+      },
+      "info": {
+        "value": "$color.palette.blue.900",
+        "type": "color"
+      },
+      "cta": {
+        "value": "$color.brand.a.600",
         "type": "color"
       }
     }
