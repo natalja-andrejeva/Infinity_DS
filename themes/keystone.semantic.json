@@ -161,6 +161,72 @@
         "value": "$color.neutrals.950",
         "type": "color"
       }
+    },
+    "brand": {
+      "primary": {
+        "value": "$color.brand.a.600",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "$color.base.black",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "$color.base.white",
+        "type": "color"
+      },
+      "accent": {
+        "value": "$color.brand.a.600",
+        "type": "color"
+      }
+    },
+    "system": {
+      "success": {
+        "value": "$color.palette.green.500",
+        "type": "color"
+      },
+      "warning": {
+        "value": "$color.palette.yellow.800",
+        "type": "color"
+      },
+      "error": {
+        "value": "$color.palette.red.500",
+        "type": "color"
+      },
+      "info": {
+        "value": "$color.palette.blue.500",
+        "type": "color"
+      }
+    },
+    "ink": {
+      "primary": {
+        "value": "$color.neutrals.950",
+        "type": "color"
+      },
+      "primaryInverse": {
+        "value": "$color.neutrals.50",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "$color.neutrals.800",
+        "type": "color"
+      },
+      "secondaryInverse": {
+        "value": "$color.neutrals.200",
+        "type": "color"
+      },
+      "placeholder": {
+        "value": "$color.neutrals.400",
+        "type": "color"
+      },
+      "disable": {
+        "value": "$color.neutrals.400",
+        "type": "color"
+      },
+      "readOnly": {
+        "value": "$color.neutrals.600",
+        "type": "color"
+      }
     }
   },
   "outline": {
