@@ -26,12 +26,32 @@
       "bold": {
         "value": "$border.width.2",
         "type": "borderWidth"
+      }
+    }
+  },
+  "outline": {
+    "width": {
+      "base": {
+        "value": "$border.width.1",
+        "type": "borderWidth"
+      }
+    },
+    "radius": {
+      "sharp": {
+        "value": "$border.radius.0",
+        "type": "borderRadius"
       },
-      "outline": {
-        "base": {
-          "value": "$border.width.1",
-          "type": "borderWidth"
-        }
+      "squareRound": {
+        "value": "$border.radius.3",
+        "type": "borderRadius"
+      },
+      "rounder": {
+        "value": "$border.radius.5",
+        "type": "borderRadius"
+      },
+      "pill": {
+        "value": "$border.radius.max",
+        "type": "borderRadius"
       }
     }
   },
@@ -121,25 +141,69 @@
       }
     }
   },
-  "basics": {
-    "size": {
-      "height": {
-        "xs": {
-          "value": "$size.8",
-          "type": "sizing"
-        },
-        "sm": {
-          "value": "$size.10",
-          "type": "sizing"
-        },
-        "md": {
-          "value": "$size.12",
-          "type": "sizing"
-        },
-        "lg": {
-          "value": "$size.14",
-          "type": "sizing"
-        }
+  "size": {
+    "component": {
+      "xs": {
+        "value": "$size.8",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "$size.10",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "$size.12",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "$size.14",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "$size.16",
+        "type": "sizing"
+      }
+    },
+    "actions": {
+      "xs": {
+        "value": "$size.component.xs",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "$size.component.sm",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "$size.component.md",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "$size.component.lg",
+        "type": "sizing"
+      }
+    },
+    "inputs": {
+      "sm": {
+        "value": "$size.component.sm",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "$size.component.md",
+        "type": "sizing"
+      }
+    },
+    "status": {
+      "xs": {
+        "value": "$size.component.xs",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "$size.component.sm",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "$size.component.md",
+        "type": "sizing"
       }
     }
   },
@@ -291,23 +355,83 @@
       }
     }
   },
-  "outline": {
-    "radius": {
-      "sharp": {
-        "value": "$border.radius.0",
-        "type": "borderRadius"
+  "space": {
+    "ui": {
+      "spaceArround": {
+        "none": {
+          "value": "$space.0",
+          "type": "spacing"
+        },
+        "xxs": {
+          "value": "$space.2",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "$space.3",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.4",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.6",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.8",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "$space.12",
+          "type": "spacing"
+        },
+        "xxl": {
+          "value": "$space.16",
+          "type": "spacing"
+        }
       },
-      "squareRound": {
-        "value": "$border.radius.3",
-        "type": "borderRadius"
-      },
-      "rounder": {
-        "value": "$border.radius.5",
-        "type": "borderRadius"
-      },
-      "pill": {
-        "value": "$border.radius.max",
-        "type": "borderRadius"
+      "spaceBetween": {
+        "none": {
+          "value": "$space.0",
+          "type": "spacing"
+        },
+        "xxs": {
+          "value": "$space.2",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "$space.3",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.4",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.6",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.8",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "$space.12",
+          "type": "spacing"
+        },
+        "xxl": {
+          "value": "$space.16",
+          "type": "spacing"
+        }
+      }
+    },
+    "actions": {
+      "padding": {
+        "xs": {
+          "value": "$space.ui.spaceArround.xs",
+          "type": "spacing"
+        }
       }
     }
   }
