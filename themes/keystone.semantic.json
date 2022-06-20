@@ -143,66 +143,68 @@
   },
   "size": {
     "component": {
-      "xs": {
-        "value": "$size.8",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "$size.10",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "$size.12",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "$size.14",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "$size.16",
-        "type": "sizing"
+      "base": {
+        "xs": {
+          "value": "$size.8",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "$size.10",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "$size.12",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "$size.14",
+          "type": "sizing"
+        },
+        "xl": {
+          "value": "$size.16",
+          "type": "sizing"
+        }
       }
     },
     "actions": {
       "xs": {
-        "value": "$size.component.xs",
+        "value": "$size.component.base.xs",
         "type": "sizing"
       },
       "sm": {
-        "value": "$size.component.sm",
+        "value": "$size.component.base.sm",
         "type": "sizing"
       },
       "md": {
-        "value": "$size.component.md",
+        "value": "$size.component.base.md",
         "type": "sizing"
       },
       "lg": {
-        "value": "$size.component.lg",
+        "value": "$size.component.base.lg",
         "type": "sizing"
       }
     },
     "inputs": {
       "sm": {
-        "value": "$size.component.sm",
+        "value": "$size.component.base.sm",
         "type": "sizing"
       },
       "md": {
-        "value": "$size.component.md",
+        "value": "$size.component.base.md",
         "type": "sizing"
       }
     },
     "status": {
       "xs": {
-        "value": "$size.component.xs",
+        "value": "$size.component.base.xs",
         "type": "sizing"
       },
       "sm": {
-        "value": "$size.component.sm",
+        "value": "$size.component.base.sm",
         "type": "sizing"
       },
       "md": {
-        "value": "$size.component.md",
+        "value": "$size.component.base.md",
         "type": "sizing"
       }
     }
