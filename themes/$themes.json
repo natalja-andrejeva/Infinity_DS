@@ -4,7 +4,7 @@
     "name": "Keystone Headless (base)",
     "selectedTokenSets": {
       "keystone.comp": "enabled",
-      "keystone.core": "source",
+      "keystone.core": "enabled",
       "keystone.semantic": "enabled"
     },
     "$figmaStyleReferences": {}
