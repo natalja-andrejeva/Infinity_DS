@@ -16,6 +16,12 @@
       "pill": {
         "value": "$border.radius.max",
         "type": "borderRadius"
+      },
+      "component": {
+        "base": {
+          "value": "$border.radius.squareRound",
+          "type": "borderRadius"
+        }
       }
     },
     "width": {
@@ -52,6 +58,12 @@
       "pill": {
         "value": "$border.radius.max",
         "type": "borderRadius"
+      },
+      "component": {
+        "base": {
+          "value": "$outline.radius.squareRound",
+          "type": "borderRadius"
+        }
       }
     }
   },
