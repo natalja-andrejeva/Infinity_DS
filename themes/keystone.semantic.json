@@ -2829,6 +2829,338 @@
           "type": "fontSizes"
         }
       }
+    },
+    "lineHeight": {
+      "display1": {
+        "xs": {
+          "value": "$font.lineHeight.14",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.14",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.15",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.15",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.18",
+          "type": "lineHeights"
+        }
+      },
+      "display2": {
+        "xs": {
+          "value": "$font.lineHeight.12",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.12",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.13",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.13",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.15",
+          "type": "lineHeights"
+        }
+      },
+      "display3": {
+        "xs": {
+          "value": "$font.lineHeight.9",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.9",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.11",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.11",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.12",
+          "type": "lineHeights"
+        }
+      },
+      "heading1": {
+        "xs": {
+          "value": "$font.lineHeight.6",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.6",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.7",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.7",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.8",
+          "type": "lineHeights"
+        }
+      },
+      "heading2": {
+        "xs": {
+          "value": "$font.lineHeight.3",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.3",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.5",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.5",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.6",
+          "type": "lineHeights"
+        }
+      },
+      "heading3": {
+        "xs": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.3",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.3",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.5",
+          "type": "lineHeights"
+        }
+      },
+      "heading4": {
+        "xs": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        }
+      },
+      "body1": {
+        "xs": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        }
+      },
+      "body2": {
+        "xs": {
+          "value": "$font.lineHeight.1",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.1",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.1",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.1",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        }
+      },
+      "body3": {
+        "xs": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.1",
+          "type": "lineHeights"
+        }
+      },
+      "caption1": {
+        "xs": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.2",
+          "type": "lineHeights"
+        }
+      },
+      "caption2": {
+        "xs": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.1",
+          "type": "lineHeights"
+        }
+      },
+      "label1": {
+        "xs": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.1",
+          "type": "lineHeights"
+        }
+      },
+      "label2": {
+        "xs": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        }
+      },
+      "overline1": {
+        "xs": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "sm": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "md": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "lg": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        },
+        "xl": {
+          "value": "$font.lineHeight.0",
+          "type": "lineHeights"
+        }
+      }
     }
   }
 }
