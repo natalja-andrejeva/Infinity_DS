@@ -768,6 +768,16 @@
         "value": "88px",
         "type": "lineHeights"
       }
+    },
+    "textStyle": {
+      "normal": {
+        "value": "normal",
+        "type": "other"
+      },
+      "italic": {
+        "value": "italic",
+        "type": "other"
+      }
     }
   },
   "elevation": {
