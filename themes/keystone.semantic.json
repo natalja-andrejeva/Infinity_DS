@@ -394,7 +394,7 @@
               "fontFamily": "$font.fontFamily.display",
               "fontWeight": "$font.fontWeight.light",
               "lineHeight": "$font.lineHeight.display1.xs",
-              "fontSize": "font.fontSize.display1.xs",
+              "fontSize": "$font.fontSize.display1.xs",
               "letterSpacing": "$font.letterSpacing.0",
               "paragraphSpacing": "$font.paragraphSpacing.0",
               "textDecoration": "$font.textDecoration.none",
