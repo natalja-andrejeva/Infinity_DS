@@ -133,6 +133,26 @@
         "value": "$size.component.base.md",
         "type": "sizing"
       }
+    },
+    "controls": {
+      "inner": {
+        "value": "$size.5",
+        "type": "sizing"
+      },
+      "outer": {
+        "value": "$size.7",
+        "type": "sizing"
+      }
+    },
+    "lists": {
+      "sm": {
+        "value": "$size.component.base.sm",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "$size.component.base.md",
+        "type": "sizing"
+      }
     }
   },
   "color": {
@@ -299,19 +319,19 @@
           "type": "spacing"
         },
         "md": {
-          "value": "$space.6",
+          "value": "$space.5",
           "type": "spacing"
         },
         "lg": {
-          "value": "$space.8",
+          "value": "$space.6",
           "type": "spacing"
         },
         "xl": {
-          "value": "$space.12",
+          "value": "$space.8",
           "type": "spacing"
         },
         "xxl": {
-          "value": "$space.16",
+          "value": "$space.12",
           "type": "spacing"
         }
       },
@@ -333,29 +353,85 @@
           "type": "spacing"
         },
         "md": {
-          "value": "$space.6",
+          "value": "$space.5",
           "type": "spacing"
         },
         "lg": {
-          "value": "$space.8",
+          "value": "$space.6",
           "type": "spacing"
         },
         "xl": {
-          "value": "$space.12",
+          "value": "$space.8",
           "type": "spacing"
         },
         "xxl": {
-          "value": "$space.16",
+          "value": "$space.12",
           "type": "spacing"
         }
       }
     },
     "actions": {
       "padding": {
+        "none": {
+          "value": "$space.ui.spaceArround.none",
+          "type": "spacing"
+        },
         "xs": {
           "value": "$space.ui.spaceArround.xs",
           "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.ui.spaceArround.sm",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.ui.spaceArround.md",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.ui.spaceArround.lg",
+          "type": "spacing"
         }
+      },
+      "spaceBetween": {
+        "value": "$space.ui.spaceBetween.sm",
+        "type": "spacing"
+      }
+    },
+    "inputs": {
+      "padding": {
+        "xs": {
+          "value": "$space.ui.spaceArround.xs",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.ui.spaceArround.sm",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.ui.spaceArround.md",
+          "type": "spacing"
+        }
+      },
+      "spaceBetween": {
+        "value": "$space.ui.spaceBetween.sm",
+        "type": "spacing"
+      }
+    },
+    "status": {
+      "padding": {
+        "xs": {
+          "value": "$space.ui.spaceArround.xs",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.ui.spaceArround.sm",
+          "type": "spacing"
+        }
+      },
+      "spaceBetween": {
+        "value": "$space.ui.spaceBetween.sm",
+        "type": "spacing"
       }
     }
   },
