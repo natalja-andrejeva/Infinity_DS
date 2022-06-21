@@ -473,40 +473,49 @@
     },
     "fontWeight": {
       "thin": {
-        "value": "100",
-        "type": "fontWeights"
+        "value": "Thin",
+        "type": "fontWeights",
+        "description": "Thin 100"
       },
       "extraLight": {
-        "value": "200",
-        "type": "fontWeights"
+        "value": "Extra Light",
+        "type": "fontWeights",
+        "description": "ExtraLight 200"
       },
       "light": {
-        "value": "300",
-        "type": "fontWeights"
+        "value": "Light",
+        "type": "fontWeights",
+        "description": "Light 300"
       },
       "regular": {
-        "value": "400",
-        "type": "fontWeights"
+        "value": "Regular",
+        "type": "fontWeights",
+        "description": "Regular 400"
       },
       "medium": {
-        "value": "500",
-        "type": "fontWeights"
+        "value": "Medium",
+        "type": "fontWeights",
+        "description": "Medium 500"
       },
       "semiBold": {
-        "value": "600",
-        "type": "fontWeights"
+        "value": "SemiBold",
+        "type": "fontWeights",
+        "description": "SemiBold 600"
       },
       "bold": {
-        "value": "700",
-        "type": "fontWeights"
+        "value": "Bold",
+        "type": "fontWeights",
+        "description": "Bold 700"
       },
       "extraBold": {
-        "value": "800",
-        "type": "fontWeights"
+        "value": "ExtraBold",
+        "type": "fontWeights",
+        "description": "ExtraBold 800"
       },
       "black": {
-        "value": "900",
-        "type": "fontWeights"
+        "value": "Black",
+        "type": "fontWeights",
+        "description": "Black 900"
       },
       "custom": {
         "value": "0",
