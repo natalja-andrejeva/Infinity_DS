@@ -3,6 +3,18 @@
     "xs": {
       "value": "$size.actions.xs",
       "type": "sizing"
+    },
+    "sm": {
+      "value": "$size.actions.sm",
+      "type": "sizing"
+    },
+    "md": {
+      "value": "$size.actions.md",
+      "type": "sizing"
+    },
+    "lg": {
+      "value": "$size.actions.lg",
+      "type": "sizing"
     }
   }
 }
