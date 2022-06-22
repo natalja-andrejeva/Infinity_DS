@@ -16,5 +16,11 @@
       "value": "$size.actions.lg",
       "type": "sizing"
     }
+  },
+  "paddingTop": {
+    "xs": {
+      "value": "$space.actions.padding.none",
+      "type": "spacing"
+    }
   }
 }
