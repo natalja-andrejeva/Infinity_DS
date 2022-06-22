@@ -363,6 +363,10 @@
         "xxl": {
           "value": "$space.12",
           "type": "spacing"
+        },
+        "min": {
+          "value": "$space.1",
+          "type": "spacing"
         }
       },
       "spaceBetween": {
@@ -462,6 +466,34 @@
       "spaceBetween": {
         "value": "$space.ui.spaceBetween.sm",
         "type": "spacing"
+      }
+    },
+    "icons": {
+      "padding": {
+        "xs": {
+          "value": "$space.ui.spaceArround.min",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.ui.spaceArround.min",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.ui.spaceArround.xxs",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.ui.spaceArround.xxs",
+          "type": "spacing"
+        },
+        "xl": {
+          "value": "$space.ui.spaceArround.xxs",
+          "type": "spacing"
+        },
+        "xxl": {
+          "value": "$space.ui.spaceArround.xs",
+          "type": "spacing"
+        }
       }
     }
   },
