@@ -1,8 +1,8 @@
 {
-      "height": {
-        "xs": {
-          "value": "$size.actions.xs",
-          "type": "sizing"
-        }
-      }
+  "height": {
+    "xs": {
+      "value": "$size.actions.xs",
+      "type": "sizing"
     }
+  }
+}

@@ -3,9 +3,9 @@
     "id": "4f623b71129a819e1f207566cc876d8c76723b27",
     "name": "Keystone Headless (base)",
     "selectedTokenSets": {
-      "keystone.comp": "enabled",
       "keystone.core": "enabled",
-      "keystone.semantic": "enabled"
+      "keystone.semantic": "enabled",
+      "keystone.comp/button": "enabled"
     },
     "$figmaStyleReferences": {}
   }
