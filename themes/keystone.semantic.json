@@ -142,6 +142,10 @@
       "outer": {
         "value": "$size.7",
         "type": "sizing"
+      },
+      "xs": {
+        "value": "$size.component.base.xs",
+        "type": "sizing"
       }
     },
     "lists": {
@@ -151,6 +155,32 @@
       },
       "md": {
         "value": "$size.component.base.md",
+        "type": "sizing"
+      }
+    },
+    "icons": {
+      "xs": {
+        "value": "$size.5",
+        "type": "sizing"
+      },
+      "sm": {
+        "value": "$size.6",
+        "type": "sizing"
+      },
+      "md": {
+        "value": "$size.8",
+        "type": "sizing"
+      },
+      "lg": {
+        "value": "$size.10",
+        "type": "sizing"
+      },
+      "xl": {
+        "value": "$size.12",
+        "type": "sizing"
+      },
+      "xxl": {
+        "value": "$size.17",
         "type": "sizing"
       }
     }
