@@ -445,6 +445,10 @@
         "md": {
           "value": "$space.ui.spaceArround.md",
           "type": "spacing"
+        },
+        "none": {
+          "value": "$space.ui.spaceArround.none",
+          "type": "spacing"
         }
       },
       "spaceBetween": {
