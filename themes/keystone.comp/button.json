@@ -88,5 +88,40 @@
       "value": "$space.actions.padding.md",
       "type": "spacing"
     }
+  },
+  "border": {
+    "radius": {
+      "standard": {
+        "value": "$border.radius.component.actions",
+        "type": "borderRadius",
+        "description": "Standard look & feel setup on the component standards semantic level."
+      },
+      "sharp": {
+        "value": "$border.radius.sharp",
+        "type": "borderRadius"
+      }
+    }
+  },
+  "label": {
+    "mq": {
+      "md": {
+        "value": {
+          "typography": "$font.mq.md.body1.Regular"
+        },
+        "type": "composition"
+      },
+      "sm": {
+        "value": {
+          "typography": "$font.mq.sm.body1.Regular"
+        },
+        "type": "composition"
+      },
+      "xs": {
+        "value": {
+          "typography": "$font.mq.xs.body1.Regular"
+        },
+        "type": "composition"
+      }
+    }
   }
 }

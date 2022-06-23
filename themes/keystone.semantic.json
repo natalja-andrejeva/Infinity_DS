@@ -18,7 +18,11 @@
         "type": "borderRadius"
       },
       "component": {
-        "base": {
+        "actions": {
+          "value": "$border.radius.squareRound",
+          "type": "borderRadius"
+        },
+        "inputs": {
           "value": "$border.radius.squareRound",
           "type": "borderRadius"
         }
