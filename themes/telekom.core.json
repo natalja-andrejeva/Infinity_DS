@@ -14,23 +14,19 @@
         "    type": "color"
           },
       "    dark": {
-           " comment": "Brand with 15% black overlay",
-         "   value": "#4700D9",
+           "   value": "#4700D9",
         "    type": "color"
           },
         "  darker": {
-           " comment": "Brand with 30% black overlay",
-         "   value": "#3A00B3",
+           "   value": "#3A00B3",
         "    type": "color"
           },
        "   light": {
-           " comment": "Brand with 35% white overlay",
-         "   value": "#8F59FF",
+           "   value": "#8F59FF",
         "    type": "color"
           },
          " lighter": {
-           " comment": "Brand with 50% white overlay",
-         "   value": "#A980FF",
+           "   value": "#A980FF",
         "    type": "color"
           },
       "    tint": {
@@ -628,13 +624,11 @@
         "    type": "color"
           },
       "    tint": {
-           " comment": "green.500 + #fff 80%",
-         "   value": "#CCF0E1",
+           "e": "#CCF0E1",
         "    type": "color"
           },
        "   shade": {
-           " comment": "green.500 + #000 80%",
-         "   value": "#004829",
+           "e": "#004829",
         "    type": "color"
           }
         }
