@@ -17,110 +17,114 @@
       "type": "sizing"
     }
   },
-  "paddingTop": {
-    "xs": {
-      "value": "$space.actions.padding.none",
-      "type": "spacing"
-    },
-    "sm": {
-      "value": "$space.actions.padding.xs",
-      "type": "spacing"
-    },
-    "md": {
-      "value": "$space.actions.padding.sm",
-      "type": "spacing"
-    },
-    "lg": {
-      "value": "$space.actions.padding.md",
-      "type": "spacing"
-    }
-  },
-  "paddingBottom": {
-    "xs": {
-      "value": "$space.actions.padding.none",
-      "type": "spacing"
-    },
-    "sm": {
-      "value": "$space.actions.padding.xs",
-      "type": "spacing"
-    },
-    "md": {
-      "value": "$space.actions.padding.sm",
-      "type": "spacing"
-    },
-    "lg": {
-      "value": "$space.actions.padding.md",
-      "type": "spacing"
-    }
-  },
-  "paddingLeft": {
-    "xs": {
-      "value": "$space.actions.padding.xs",
-      "type": "spacing"
-    },
-    "sm": {
-      "value": "$space.actions.padding.sm",
-      "type": "spacing"
-    },
-    "md": {
-      "value": "$space.actions.padding.sm",
-      "type": "spacing"
-    },
-    "lg": {
-      "value": "$space.actions.padding.md",
-      "type": "spacing"
-    }
-  },
-  "paddingRight": {
-    "xs": {
-      "value": "$space.actions.padding.xs",
-      "type": "spacing"
-    },
-    "sm": {
-      "value": "$space.actions.padding.sm",
-      "type": "spacing"
-    },
-    "md": {
-      "value": "$space.actions.padding.sm",
-      "type": "spacing"
-    },
-    "lg": {
-      "value": "$space.actions.padding.md",
-      "type": "spacing"
-    }
-  },
-  "border": {
-    "radius": {
-      "standard": {
-        "value": "$border.radius.component.actions",
-        "type": "borderRadius",
-        "description": "Standard look & feel setup on the component standards semantic level."
+  "button": {
+    "space": {
+      "paddingTop": {
+        "xs": {
+          "value": "$space.actions.padding.none",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.actions.padding.xs",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.actions.padding.sm",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.actions.padding.md",
+          "type": "spacing"
+        }
       },
-      "sharp": {
-        "value": "$border.radius.sharp",
-        "type": "borderRadius"
+      "paddingBottom": {
+        "xs": {
+          "value": "$space.actions.padding.none",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.actions.padding.xs",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.actions.padding.sm",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.actions.padding.md",
+          "type": "spacing"
+        }
+      },
+      "paddingLeft": {
+        "xs": {
+          "value": "$space.actions.padding.xs",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.actions.padding.sm",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.actions.padding.sm",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.actions.padding.md",
+          "type": "spacing"
+        }
+      },
+      "paddingRight": {
+        "xs": {
+          "value": "$space.actions.padding.xs",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "$space.actions.padding.sm",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "$space.actions.padding.sm",
+          "type": "spacing"
+        },
+        "lg": {
+          "value": "$space.actions.padding.md",
+          "type": "spacing"
+        }
       }
-    }
-  },
-  "label": {
-    "mq": {
-      "md": {
-        "value": {
-          "typography": "$font.mq.md.body1.Regular"
+    },
+    "border": {
+      "radius": {
+        "standard": {
+          "value": "$border.radius.component.actions",
+          "type": "borderRadius",
+          "description": "Standard look & feel setup on the component standards semantic level."
         },
-        "type": "composition"
-      },
-      "sm": {
-        "value": {
-          "typography": "$font.mq.sm.body1.Regular"
+        "sharp": {
+          "value": "$border.radius.sharp",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "label": {
+      "mq": {
+        "md": {
+          "value": {
+            "typography": "$font.mq.md.body1.Regular"
+          },
+          "type": "composition"
         },
-        "type": "composition"
-      },
-      "xs": {
-        "value": {
-          "typography": "$font.mq.xs.body1.Regular"
+        "sm": {
+          "value": {
+            "typography": "$font.mq.sm.body1.Regular"
+          },
+          "type": "composition"
         },
-        "type": "composition"
+        "xs": {
+          "value": {
+            "typography": "$font.mq.xs.body1.Regular"
+          },
+          "type": "composition"
+        }
       }
     }
   }
