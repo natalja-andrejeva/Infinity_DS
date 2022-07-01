@@ -8,5 +8,16 @@
       "keystone.comp/button": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "b2fc345165e053028c17473c417b565c662b76a3",
+    "name": "VFQ",
+    "selectedTokenSets": {
+      "keystone.comp/button": "enabled",
+      "keystone.core": "source",
+      "keystone.semantic": "enabled",
+      "telekom.core": "disabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
