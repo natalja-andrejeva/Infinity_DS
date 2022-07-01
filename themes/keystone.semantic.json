@@ -71,121 +71,123 @@
       }
     }
   },
-  "size": {
-    "component": {
-      "base": {
+  "semantic": {
+    "size": {
+      "component": {
+        "base": {
+          "xs": {
+            "value": "$size.8",
+            "type": "sizing"
+          },
+          "sm": {
+            "value": "$size.10",
+            "type": "sizing"
+          },
+          "md": {
+            "value": "$size.12",
+            "type": "sizing"
+          },
+          "lg": {
+            "value": "$size.14",
+            "type": "sizing"
+          },
+          "xl": {
+            "value": "$size.16",
+            "type": "sizing"
+          }
+        }
+      },
+      "actions": {
         "xs": {
-          "value": "$size.8",
+          "value": "$size.component.base.xs",
           "type": "sizing"
         },
         "sm": {
-          "value": "$size.10",
+          "value": "$size.component.base.sm",
           "type": "sizing"
         },
         "md": {
-          "value": "$size.12",
+          "value": "$size.component.base.md",
           "type": "sizing"
         },
         "lg": {
-          "value": "$size.14",
+          "value": "$size.component.base.lg",
+          "type": "sizing"
+        }
+      },
+      "inputs": {
+        "sm": {
+          "value": "$size.component.base.sm",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "$size.component.base.md",
+          "type": "sizing"
+        }
+      },
+      "status": {
+        "xs": {
+          "value": "$size.component.base.xs",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "$size.component.base.sm",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "$size.component.base.md",
+          "type": "sizing"
+        }
+      },
+      "controls": {
+        "inner": {
+          "value": "$size.5",
+          "type": "sizing"
+        },
+        "outer": {
+          "value": "$size.7",
+          "type": "sizing"
+        },
+        "xs": {
+          "value": "$size.component.base.xs",
+          "type": "sizing"
+        }
+      },
+      "lists": {
+        "sm": {
+          "value": "$size.component.base.sm",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "$size.component.base.md",
+          "type": "sizing"
+        }
+      },
+      "icons": {
+        "xs": {
+          "value": "$size.5",
+          "type": "sizing"
+        },
+        "sm": {
+          "value": "$size.6",
+          "type": "sizing"
+        },
+        "md": {
+          "value": "$size.8",
+          "type": "sizing"
+        },
+        "lg": {
+          "value": "$size.10",
           "type": "sizing"
         },
         "xl": {
-          "value": "$size.16",
+          "value": "$size.12",
+          "type": "sizing"
+        },
+        "xxl": {
+          "value": "$size.17",
           "type": "sizing"
         }
-      }
-    },
-    "actions": {
-      "xs": {
-        "value": "$size.component.base.xs",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "$size.component.base.sm",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "$size.component.base.md",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "$size.component.base.lg",
-        "type": "sizing"
-      }
-    },
-    "inputs": {
-      "sm": {
-        "value": "$size.component.base.sm",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "$size.component.base.md",
-        "type": "sizing"
-      }
-    },
-    "status": {
-      "xs": {
-        "value": "$size.component.base.xs",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "$size.component.base.sm",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "$size.component.base.md",
-        "type": "sizing"
-      }
-    },
-    "controls": {
-      "inner": {
-        "value": "$size.5",
-        "type": "sizing"
-      },
-      "outer": {
-        "value": "$size.7",
-        "type": "sizing"
-      },
-      "xs": {
-        "value": "$size.component.base.xs",
-        "type": "sizing"
-      }
-    },
-    "lists": {
-      "sm": {
-        "value": "$size.component.base.sm",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "$size.component.base.md",
-        "type": "sizing"
-      }
-    },
-    "icons": {
-      "xs": {
-        "value": "$size.5",
-        "type": "sizing"
-      },
-      "sm": {
-        "value": "$size.6",
-        "type": "sizing"
-      },
-      "md": {
-        "value": "$size.8",
-        "type": "sizing"
-      },
-      "lg": {
-        "value": "$size.10",
-        "type": "sizing"
-      },
-      "xl": {
-        "value": "$size.12",
-        "type": "sizing"
-      },
-      "xxl": {
-        "value": "$size.17",
-        "type": "sizing"
       }
     }
   },
