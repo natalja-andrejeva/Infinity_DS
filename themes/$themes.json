@@ -5,7 +5,8 @@
     "selectedTokenSets": {
       "keystone.core": "enabled",
       "keystone.semantic": "enabled",
-      "keystone.comp/button": "enabled"
+      "keystone.comp/button": "enabled",
+      "VFQ - light": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -14,9 +15,10 @@
     "name": "VFQ",
     "selectedTokenSets": {
       "keystone.comp/button": "enabled",
-      "keystone.core": "source",
+      "keystone.core": "enabled",
       "keystone.semantic": "enabled",
-      "telekom.core": "disabled"
+      "telekom.core": "disabled",
+      "VFQ - light": "enabled"
     },
     "$figmaStyleReferences": {}
   }
