@@ -1,7 +1,7 @@
 [
   {
     "id": "4f623b71129a819e1f207566cc876d8c76723b27",
-    "name": "Keystone Headless (base)",
+    "name": "Keystone",
     "selectedTokenSets": {
       "keystone.core": "enabled",
       "keystone.semantic": "enabled",
