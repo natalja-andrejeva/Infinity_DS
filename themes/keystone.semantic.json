@@ -20,11 +20,11 @@
         },
         "component": {
           "actions": {
-            "value": "$border.radius.squareRound",
+            "value": "$semantic.border.radius.squareRound",
             "type": "borderRadius"
           },
           "inputs": {
-            "value": "$border.radius.squareRound",
+            "value": "$semantic.border.radius.squareRound",
             "type": "borderRadius"
           }
         }
@@ -66,7 +66,7 @@
         },
         "component": {
           "base": {
-            "value": "$outline.radius.squareRound",
+            "value": "$semantic.outline.radius.squareRound",
             "type": "borderRadius"
           }
         }
@@ -99,43 +99,43 @@
       },
       "actions": {
         "xs": {
-          "value": "$size.component.base.xs",
+          "value": "$semantic.size.component.base.xs",
           "type": "sizing"
         },
         "sm": {
-          "value": "$size.component.base.sm",
+          "value": "$semantic.size.component.base.sm",
           "type": "sizing"
         },
         "md": {
-          "value": "$size.component.base.md",
+          "value": "$semantic.size.component.base.md",
           "type": "sizing"
         },
         "lg": {
-          "value": "$size.component.base.lg",
+          "value": "$semantic.size.component.base.lg",
           "type": "sizing"
         }
       },
       "inputs": {
         "sm": {
-          "value": "$size.component.base.sm",
+          "value": "$semantic.size.component.base.sm",
           "type": "sizing"
         },
         "md": {
-          "value": "$size.component.base.md",
+          "value": "$semantic.size.component.base.md",
           "type": "sizing"
         }
       },
       "status": {
         "xs": {
-          "value": "$size.component.base.xs",
+          "value": "$semantic.size.component.base.xs",
           "type": "sizing"
         },
         "sm": {
-          "value": "$size.component.base.sm",
+          "value": "$semantic.size.component.base.sm",
           "type": "sizing"
         },
         "md": {
-          "value": "$size.component.base.md",
+          "value": "$semantic.size.component.base.md",
           "type": "sizing"
         }
       },
@@ -149,17 +149,17 @@
           "type": "sizing"
         },
         "xs": {
-          "value": "$size.component.base.xs",
+          "value": "$semantic.size.component.base.xs",
           "type": "sizing"
         }
       },
       "lists": {
         "sm": {
-          "value": "$size.component.base.sm",
+          "value": "$semantic.size.component.base.sm",
           "type": "sizing"
         },
         "md": {
-          "value": "$size.component.base.md",
+          "value": "$semantic.size.component.base.md",
           "type": "sizing"
         }
       },
@@ -412,95 +412,95 @@
       "actions": {
         "padding": {
           "none": {
-            "value": "$space.ui.spaceArround.none",
+            "value": "$semantic.space.ui.spaceArround.none",
             "type": "spacing"
           },
           "xs": {
-            "value": "$space.ui.spaceArround.xs",
+            "value": "$semantic.space.ui.spaceArround.xs",
             "type": "spacing"
           },
           "sm": {
-            "value": "$space.ui.spaceArround.sm",
+            "value": "$semantic.space.ui.spaceArround.sm",
             "type": "spacing"
           },
           "md": {
-            "value": "$space.ui.spaceArround.md",
+            "value": "$semantic.space.ui.spaceArround.md",
             "type": "spacing"
           },
           "lg": {
-            "value": "$space.ui.spaceArround.lg",
+            "value": "$semantic.space.ui.spaceArround.lg",
             "type": "spacing"
           }
         },
         "spaceBetween": {
-          "value": "$space.ui.spaceBetween.sm",
+          "value": "$semantic.space.ui.spaceBetween.sm",
           "type": "spacing"
         }
       },
       "inputs": {
         "padding": {
           "xs": {
-            "value": "$space.ui.spaceArround.xs",
+            "value": "$semantic.space.ui.spaceArround.xs",
             "type": "spacing"
           },
           "sm": {
-            "value": "$space.ui.spaceArround.sm",
+            "value": "$semantic.space.ui.spaceArround.sm",
             "type": "spacing"
           },
           "md": {
-            "value": "$space.ui.spaceArround.md",
+            "value": "$semantic.space.ui.spaceArround.md",
             "type": "spacing"
           },
           "none": {
-            "value": "$space.ui.spaceArround.none",
+            "value": "$semantic.space.ui.spaceArround.none",
             "type": "spacing"
           }
         },
         "spaceBetween": {
-          "value": "$space.ui.spaceBetween.sm",
+          "value": "$semantic.space.ui.spaceBetween.sm",
           "type": "spacing"
         }
       },
       "status": {
         "padding": {
           "xs": {
-            "value": "$space.ui.spaceArround.xs",
+            "value": "$semantic.space.ui.spaceArround.xs",
             "type": "spacing"
           },
           "sm": {
-            "value": "$space.ui.spaceArround.sm",
+            "value": "$semantic.space.ui.spaceArround.sm",
             "type": "spacing"
           }
         },
         "spaceBetween": {
-          "value": "$space.ui.spaceBetween.sm",
+          "value": "$semantic.space.ui.spaceBetween.sm",
           "type": "spacing"
         }
       },
       "icons": {
         "padding": {
           "xs": {
-            "value": "$space.ui.spaceArround.min",
+            "value": "$semantic.space.ui.spaceArround.min",
             "type": "spacing"
           },
           "sm": {
-            "value": "$space.ui.spaceArround.min",
+            "value": "$semantic.space.ui.spaceArround.min",
             "type": "spacing"
           },
           "md": {
-            "value": "$space.ui.spaceArround.xxs",
+            "value": "$semantic.space.ui.spaceArround.xxs",
             "type": "spacing"
           },
           "lg": {
-            "value": "$space.ui.spaceArround.xxs",
+            "value": "$semantic.space.ui.spaceArround.xxs",
             "type": "spacing"
           },
           "xl": {
-            "value": "$space.ui.spaceArround.xxs",
+            "value": "$semantic.space.ui.spaceArround.xxs",
             "type": "spacing"
           },
           "xxl": {
-            "value": "$space.ui.spaceArround.xs",
+            "value": "$semantic.space.ui.spaceArround.xs",
             "type": "spacing"
           }
         }
