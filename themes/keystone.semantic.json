@@ -1,5 +1,5 @@
 {
-  "button": {
+  "semantic": {
     "border": {
       "radius": {
         "sharp": {
@@ -28,54 +28,50 @@
             "type": "borderRadius"
           }
         }
-      }
-    }
-  },
-  "border": {
-    "width": {
-      "base": {
-        "value": "$border.width.1",
-        "type": "borderWidth"
       },
-      "bold": {
-        "value": "$border.width.2",
-        "type": "borderWidth"
-      }
-    }
-  },
-  "outline": {
-    "width": {
-      "base": {
-        "value": "$border.width.1",
-        "type": "borderWidth"
-      }
-    },
-    "radius": {
-      "sharp": {
-        "value": "$border.radius.0",
-        "type": "borderRadius"
-      },
-      "squareRound": {
-        "value": "$border.radius.3",
-        "type": "borderRadius"
-      },
-      "rounder": {
-        "value": "$border.radius.5",
-        "type": "borderRadius"
-      },
-      "pill": {
-        "value": "$border.radius.max",
-        "type": "borderRadius"
-      },
-      "component": {
+      "width": {
         "base": {
-          "value": "$outline.radius.squareRound",
-          "type": "borderRadius"
+          "value": "$border.width.1",
+          "type": "borderWidth"
+        },
+        "bold": {
+          "value": "$border.width.2",
+          "type": "borderWidth"
         }
       }
-    }
-  },
-  "semantic": {
+    },
+    "outline": {
+      "width": {
+        "base": {
+          "value": "$border.width.1",
+          "type": "borderWidth"
+        }
+      },
+      "radius": {
+        "sharp": {
+          "value": "$border.radius.0",
+          "type": "borderRadius"
+        },
+        "squareRound": {
+          "value": "$border.radius.3",
+          "type": "borderRadius"
+        },
+        "rounder": {
+          "value": "$border.radius.5",
+          "type": "borderRadius"
+        },
+        "pill": {
+          "value": "$border.radius.max",
+          "type": "borderRadius"
+        },
+        "component": {
+          "base": {
+            "value": "$outline.radius.squareRound",
+            "type": "borderRadius"
+          }
+        }
+      }
+    },
     "size": {
       "component": {
         "base": {
