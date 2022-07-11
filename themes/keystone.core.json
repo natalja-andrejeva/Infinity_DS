@@ -1042,7 +1042,6 @@
           }
         }
       }
-    }
   },
   "opacity": {
     "0": {
@@ -1098,9 +1097,9 @@
       "type": "opacity"
     }
   },
-    "border": {
-      "radius": {
-        "0": {
+  "border": {
+    "radius": {
+      "0": {
           "value": "0px",
           "type": "borderRadius"
         },
@@ -1181,9 +1180,7 @@
           "type": "borderRadius",
           "description": "set a custom border radius \"px\" value to use in this core token."
         }
-      }
-  },
-  "border": {
+      },
     "width": {
       "0": {
         "value": "0px",
