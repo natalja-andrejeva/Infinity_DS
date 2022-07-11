@@ -509,11 +509,10 @@
           }
         }
       }
-    }
-  },
-  "font": {
-    "fontFamily": {
-      "display": {
+    },
+    "font": {
+      "fontFamily": {
+        "display": {
         "value": "$font.fontFamily.secondary",
         "type": "fontFamilies"
       },
@@ -3315,4 +3314,5 @@
       }
     }
   }
+}
 }
