@@ -1,26 +1,15 @@
 [
   {
-    "id": "4f623b71129a819e1f207566cc876d8c76723b27",
-    "name": "Keystone",
-    "selectedTokenSets": {
-      "01_keystone.core": "enabled",
-      "02_keystone.semantic": "enabled",
-      "03_keystone.comp/button": "enabled",
-      "VFQ/01_VFQ - Light": "disabled",
-      "VFQ/02_VFQ - Dark": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "b2fc345165e053028c17473c417b565c662b76a3",
     "name": "VFQ - Light theme",
     "selectedTokenSets": {
-      "telekom.core": "disabled",
-      "02_keystone.semantic": "source",
-      "01_keystone.core": "source",
       "03_keystone.comp/button": "source",
       "VFQ/01_VFQ - Light": "enabled",
-      "VFQ/02_VFQ - Dark": "disabled"
+      "VFQ/02_VFQ - Dark": "disabled",
+      "01_Pandora - Light": "disabled",
+      "02_Pandora - Dark": "disabled",
+      "01_Infinity.core": "source",
+      "02_Infinity.semantic": "source"
     },
     "$figmaStyleReferences": {}
   },
@@ -28,12 +17,41 @@
     "id": "57666ed2a7ad79594004e9ac77ec31b2e2817f57",
     "name": "VFQ - Dark theme",
     "selectedTokenSets": {
-      "01_keystone.core": "source",
-      "02_keystone.semantic": "source",
       "03_keystone.comp/button": "source",
-      "telekom.core": "disabled",
       "VFQ/01_VFQ - Light": "source",
-      "VFQ/02_VFQ - Dark": "enabled"
+      "VFQ/02_VFQ - Dark": "enabled",
+      "01_Pandora - Light": "disabled",
+      "02_Pandora - Dark": "disabled",
+      "01_Infinity.core": "source",
+      "02_Infinity.semantic": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "45a60d6bb9dc70891bac7816ccde8ffb7096fc06",
+    "name": "Pandora - Light theme",
+    "selectedTokenSets": {
+      "03_keystone.comp/button": "source",
+      "VFQ/01_VFQ - Light": "disabled",
+      "VFQ/02_VFQ - Dark": "disabled",
+      "01_Pandora - Light": "enabled",
+      "02_Pandora - Dark": "enabled",
+      "01_Infinity.core": "source",
+      "02_Infinity.semantic": "source"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "4f623b71129a819e1f207566cc876d8c76723b27",
+    "name": "Infinity (Headless)",
+    "selectedTokenSets": {
+      "03_keystone.comp/button": "enabled",
+      "VFQ/01_VFQ - Light": "disabled",
+      "VFQ/02_VFQ - Dark": "disabled",
+      "01_Pandora - Light": "disabled",
+      "02_Pandora - Dark": "disabled",
+      "01_Infinity.core": "enabled",
+      "02_Infinity.semantic": "enabled"
     },
     "$figmaStyleReferences": {}
   }
