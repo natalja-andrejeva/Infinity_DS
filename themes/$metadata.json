@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "01_Infinity.core",
     "02_Infinity.semantic",
-    "03_keystone.comp/button",
+    "03_Infinity.comp/button",
     "VFQ/01_VFQ - Light",
     "VFQ/02_VFQ - Dark",
     "01_Pandora - Light",
