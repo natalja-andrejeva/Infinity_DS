@@ -1,11 +1,8 @@
 {
   "tokenSetOrder": [
-    "01_Infinity.core",
-    "02_Infinity.semantic",
-    "03_Infinity.comp/button",
-    "VFQ/01_VFQ - Light",
-    "VFQ/02_VFQ - Dark",
-    "01_Pandora - Light",
-    "02_Pandora - Dark"
+    "infinity.core",
+    "infinity.semantic",
+    "infinity.component/button",
+    "infinity.component/accordion-item"
   ]
 }

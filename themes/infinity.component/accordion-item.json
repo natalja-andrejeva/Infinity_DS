@@ -1,0 +1,24 @@
+{
+  "accordion-item": {
+    "background": {
+      "outlined": {
+        "default": {
+          "value": "$semantic.color.background.base",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$semantic.color.background.disable",
+          "type": "color"
+        }
+      }
+    },
+    "font": {
+      "heading": {
+        "default": {
+          "value": "$semantic.color.ink.primary",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
